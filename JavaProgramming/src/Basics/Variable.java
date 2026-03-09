@@ -1,3 +1,5 @@
+package Basics;
+
 public class Variable {
     public static void main(String[] args) {
         // Variables : Variables are a reusable container for a value
@@ -33,8 +35,8 @@ public class Variable {
         System.out.println("My name initial is " + nameInitial);
 
         //Boolean
-        boolean isStudent = true;
-        boolean forSale = false;
+        // boolean isStudent = true;
+        // boolean forSale = false;
         boolean isOnline = true;
         System.out.println(isOnline);
 

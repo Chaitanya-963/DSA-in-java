@@ -1,3 +1,5 @@
+package ConditionalsAndLoops;
+
 public class IfClass {
     public static void main(String[] args) {
 

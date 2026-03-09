@@ -15,5 +15,7 @@ public class EchancedSwitch {
             case "saturday", "sunday" -> System.out.println("It is a weekend ☀️😎");
             default -> System.out.printf("%s is not a day", day);
         }
+
+        scanner.close();
     }
 }
