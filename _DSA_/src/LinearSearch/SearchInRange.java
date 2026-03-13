@@ -1,3 +1,5 @@
+package LinearSearch;
+
 public class SearchInRange {
     public static void main(String[] args) {
         int[] arr = {18, 21, 5, 12, 3, 54, 22};

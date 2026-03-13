@@ -1,3 +1,5 @@
+package LinearSearch;
+
 public class FindMinNumber {
     public static void main() {
         int[] arr = {15, 45, 0, -2, 1, 55, 5, 161, 4, 24};

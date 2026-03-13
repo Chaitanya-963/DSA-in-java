@@ -1,3 +1,5 @@
+package LinearSearch;
+
 public class LinearSearch {
     static void main() {
         int[] num = {12, 54, 6, 4, 3, 84, 21, 336, 14, 12, 85, 35};
