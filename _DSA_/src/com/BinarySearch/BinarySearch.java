@@ -1,4 +1,4 @@
-package BinarySearch;
+package com.BinarySearch;
 
 public class BinarySearch {
     public static void main(String[] args) {
@@ -16,6 +16,8 @@ public class BinarySearch {
 
     //return the index using binary search and arr in sorted in ascending order
     static int binarySearchAsc(int[] arr, int target) {
+
+
         int start = 0;
         int end = arr.length - 1;
 
