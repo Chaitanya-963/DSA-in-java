@@ -1,4 +1,4 @@
-package LinearSearch;
+package com.LinearSearch;
 
 public class FindMinNumber {
     public static void main() {
